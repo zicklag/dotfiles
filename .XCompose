@@ -1,0 +1,48 @@
+# Greek Letters
+
+<Multi_key> <g> <a> : "α" # Alpha
+<Multi_key> <g> <b> : "β" # Beta
+<Multi_key> <g> <g> : "γ" # Gamma
+<Multi_key> <g> <l>             : "λ" # Lambda
+
+# Logic Symbols
+
+<Multi_key> <l> <a> <m>         : "λ" # Lambda
+<Multi_key> <f> <u> <n>         : "λ" # Lambda
+<Multi_key> <e> <x>             : "∃" # There exists
+<Multi_key> <f> <a>             : "∀" # Forall
+<Multi_key> <f> <o> <r>         : "∀" # Forall
+<Multi_key> <n> <o> <t>         : "¬" # Not
+<Multi_key> <a> <n> <d>         : "∧" # And
+<Multi_key> <o> <r>             : "∨" # Or
+<Multi_key> <i> <f> <f>         : "↔" # Iff: Logical equivalence
+
+
+# Superscript and Subscrpit numbers
+
+<Multi_key> <0> <less> : "₀"
+<Multi_key> <1> <less> : "₁"
+<Multi_key> <2> <less> : "₂"
+<Multi_key> <3> <less> : "₃"
+<Multi_key> <4> <less> : "₄"
+<Multi_key> <5> <less> : "₅"
+<Multi_key> <6> <less> : "₆"
+<Multi_key> <7> <less> : "₇"
+<Multi_key> <8> <less> : "₈"
+<Multi_key> <9> <less> : "₉"
+<Multi_key> <0> <greater> : "⁰"
+<Multi_key> <1> <greater> : "¹"
+<Multi_key> <2> <greater> : "²"
+<Multi_key> <3> <greater> : "³"
+<Multi_key> <4> <greater> : "⁴"
+<Multi_key> <5> <greater> : "⁵"
+<Multi_key> <6> <greater> : "⁶"
+<Multi_key> <7> <greater> : "⁷"
+<Multi_key> <8> <greater> : "⁸"
+<Multi_key> <9> <greater> : "⁹"
+
+# Brackets
+
+<Multi_key> <less> <parenleft>       : "⟨"
+<Multi_key> <greater> <parenright>       : "⟩"
+
