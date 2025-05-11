@@ -1,0 +1,10 @@
+packages = [
+    "neovim",
+    "wezterm",
+    "udev",
+    "llvm",
+    # "rizin",
+    # "java",
+    "mtools",
+    "micmac",
+]

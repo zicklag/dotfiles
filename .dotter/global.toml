@@ -1,0 +1,24 @@
+[neovim.files]
+"/home/zicklag/programs/neovim/nvim-linux64" = { target = "~/.local", type = "symbolic" }
+
+# [java.files]
+# "/home/zicklag/programs/java/jdk-21.0.1+12-jre" = { target = "~/.local", type = "symbolic" }
+
+[wezterm.files]
+"/home/zicklag/programs/wezterm/usr" = { target = "~/.local", type = "symbolic" }
+
+[udev.files]
+"/home/zicklag/programs/udev/usr" = { target = "~/.local", type = "symbolic" }
+
+[rizin.files]
+"/home/zicklag/programs/rizin" = { target = "~/.local", type = "symbolic" }
+
+[mtools.files]
+"/home/zicklag/programs/mtools/mtools-4.0.33-1+really4.0.32/localinstall/home/zicklag/.local" = { target = "~/.local", type = "symbolic" }
+
+[llvm.files]
+"/home/zicklag/programs/llvm/clang+llvm-17.0.2-x86_64-linux-gnu-ubuntu-22.04" = { target = "~/.local", type = "symbolic" }
+
+[micmac.files]
+"/home/zicklag/programs/micmac/micmac_linux" = { target = "~/.local", type = "symbolic" }
+
